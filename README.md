@@ -5,9 +5,9 @@
 ```bash 
 pip install -r requirements-gpu.txt
  ``` 
-2. To run GAN.py, open command prompt and run :
+2. To run DCGAN.py, open command prompt and run :
 ```bash 
-python GAN.py --path <enter the directory path where you want to save image generated>
+python DCGAN.py --path <enter the directory path where you want to save image generated>
  ``` 
   
  
